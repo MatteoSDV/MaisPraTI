@@ -1,0 +1,5 @@
+Os arquivos estão esctiros em javascript (.js)
+Para rodar, é necessária a versão mais recente do VSCode, com o Node.js instalado e o pacote prompt-sync importado. 
+Para instalar o pacote, após a instalação do Node.js (programa standalone, instalação via browser) basta abrir o VSCode, e escrever "Npm install prompt-sync" (sem as aspas) no terminal
+após completas as instalações, importar o arquivo e rodar localmente
+
